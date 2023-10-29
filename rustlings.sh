@@ -1,1 +1,1 @@
-/home/peter/.cargo/bin/rustlings watch
+~/.cargo/bin/rustlings $1
